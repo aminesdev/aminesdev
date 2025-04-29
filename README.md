@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Amine!
 
-I'm a Computer Science student and passionate Software Developer from Algeria. I love building clean, functional, and scalable applications — and I’m always learning something new!
+I'm a Computer Science student and a Software Developer. I love building clean, functional, and scalable applications — and I’m always learning something new!
 
 ---
 
