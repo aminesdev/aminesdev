@@ -1,7 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/gLWJLL6F/uwp4723665.jpg" alt="Banner" style="width:100%; max-width:1000px;" />
+  <img src="https://i.ibb.co/LDqpHnKS/wp9193398-grey-4k-windows-wallpapers.jpg" alt="Banner" style="width: 100%; height: auto;" />
 </p>
+
+
+
 
 # 👋 Hi, I'm Amine!
 
