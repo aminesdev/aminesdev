@@ -1,5 +1,6 @@
-#  Hi, I'm Amine!
-I'm a Computer Science student and passionate Software Developer.
+<h1 style="font-family: 'Courier New', monospace;" >Hi, I'm Amine!</h1>
+<p style="font-family: 'Courier New', monospace;">I'm a Computer Science student and passionate Software Developer.</p>
+
 
 -  Exploring **ASP.NET** and **Web APIs**
 -  Designing with **Figma** and learning **UI/UX principles**
