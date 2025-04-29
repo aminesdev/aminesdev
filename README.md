@@ -2,7 +2,7 @@
 <p style="font-family: 'Courier New', monospace;">I'm a Computer Science student and passionate Software Developer.</p>
 
 
--  Exploring **ASP.NET** and **Web APIs**
+-  Working with **ASP.NET** and build **Web APIs**
 -  Designing with **Figma** and learning **UI/UX principles**
 -  Working on improving my skills
 
