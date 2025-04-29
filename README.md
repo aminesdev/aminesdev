@@ -1,19 +1,31 @@
-<h1 style="font-family: 'Courier New', monospace;" >Hi, I'm Amine!</h1>
-<p style="font-family: 'Courier New', monospace;">I'm a Computer Science student and passionate Software Developer.</p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/gLWJLL6F/uwp4723665.jpg" alt="Banner" style="width:100%; max-width:1000px;" />
+</p>
 
+# 👋 Hi, I'm Amine!
 
--  Working with **ASP.NET** and build **Web APIs**
--  Designing with **Figma** and learning **UI/UX principles**
--  Working on improving my skills
+I'm a Computer Science student and passionate Software Developer from Algeria. I love building clean, functional, and scalable applications — and I’m always learning something new!
 
-##  My Tech Stack
+---
 
-<p>
+## 🧠 What I’m Working On
+
+- 🛠️ Working with **ASP.NET** and building **Web APIs**
+- 🎨 Designing with **Figma** and learning **UI/UX principles**
+- 🚀 Improving my skills through coding, projects, and problem-solving
+
+---
+
+## 💻 My Tech Stack
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
@@ -24,8 +36,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
+---
 
+## 📫 How to Reach Me
 
-##  How to reach me
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/)
-- GitHub: [@aminesdev](https://github.com/aminesdev)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/)
+- 💻 [GitHub @aminesdev](https://github.com/aminesdev)
+
+---
+
+## ✨ Let’s Connect and Build Something Amazing!
+
+I'm always open to collaboration, learning opportunities, and tech talks. Feel free to reach out — I’d love to chat!
