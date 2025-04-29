@@ -1,11 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/LDqpHnKS/wp9193398-grey-4k-windows-wallpapers.jpg" alt="Banner" style="width: 100%; height: auto;" />
-</p>
-
-
-
-
 # 👋 Hi, I'm Amine!
 
 I'm a Computer Science student and a Software Developer. I love building clean, functional, and scalable applications — and I’m always learning something new!
