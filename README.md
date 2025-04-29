@@ -25,4 +25,4 @@ I'm a Computer Science student and passionate Software Developer.
 
 ##  How to reach me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/)
-- GitHub: [@aminedev](https://github.com/aminesdev)
+- GitHub: [@aminesdev](https://github.com/aminesdev)
