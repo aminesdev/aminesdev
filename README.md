@@ -6,7 +6,7 @@ I'm a Computer Science student and a Software Developer. I love building clean, 
 
 ## What I’m Working On
 
-- Building **Web APIs**
+- Building **Web Apps**
 - Designing with **Figma** and learning **UI/UX principles**
 - Improving my skills through coding, projects, and problem-solving
 
