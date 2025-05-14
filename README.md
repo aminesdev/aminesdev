@@ -32,7 +32,7 @@ I'm a Computer Science student and a Software Developer. I love building clean, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://desktop.github.com/images/desktop-icon.svg" width="40" height="40"/>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/500px-Figma-logo.svg.png?20190122211436" height="35"/>
 
 </p>
 
