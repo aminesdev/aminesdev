@@ -2,7 +2,7 @@
 
 I'm a Computer Science student and a Software Developer. I love building clean, functional, and scalable applications — and I’m always learning something new!
 
----
+
 
 ## What I’m Working On
 
@@ -10,7 +10,7 @@ I'm a Computer Science student and a Software Developer. I love building clean, 
 - Designing with **Figma** and learning **UI/UX principles**
 - Improving my skills through coding, projects, and problem-solving
 
----
+
 
 ## Tools & Languages I've Explored
 
@@ -37,7 +37,7 @@ I'm a Computer Science student and a Software Developer. I love building clean, 
 </p>
 
 
----
+
 
 ## How to Reach Me
 
