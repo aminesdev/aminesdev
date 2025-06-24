@@ -1,6 +1,6 @@
 # Hi, I'm Amine!
 
-I'm a Computer Science student and a Software Developer. I enjoy building applications.
+I'm a Computer Science student and a Software Developer, and i enjoy building applications.
 
 
 
