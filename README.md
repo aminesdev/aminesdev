@@ -1,14 +1,14 @@
 # Hi, I'm Amine!
 
-I'm a Computer Science student and a Software Developer. I love building clean, functional, and scalable applications — and I’m always learning something new!
+I'm a Computer Science student and a Software Developer. I enjoy building applications.
 
 
 
 ## What I’m Working On
 
 - Building **Web Apps**
-- Designing with **Figma** and learning **UI/UX principles**
-- Improving my skills through coding, projects, and problem-solving
+- Designing with **Figma**
+- Improving my skills
 
 
 
