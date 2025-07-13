@@ -29,5 +29,4 @@ I'm a Software Developer, and I enjoy building apps.
 
 ## How to Reach Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/)
-- 💻 [GitHub @aminesdev](https://github.com/aminesdev)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/)
