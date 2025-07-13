@@ -27,6 +27,6 @@ I'm a Software Developer, and I enjoy building apps.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/500px-Figma-logo.svg.png?20190122211436" height="35"/>
 </p>
 
-## How to Reach Me
+## Social Media
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/)
