@@ -1,9 +1,3 @@
-# Hi, I'm Amine!
-
-I'm a Software Developer, and I enjoy building apps.
-
-## Technologies
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=mldPmcCMMrFh&format=png&color=000000" width="40" height="40"/>
@@ -26,7 +20,3 @@ I'm a Software Developer, and I enjoy building apps.
   <img src="https://desktop.github.com/images/desktop-icon.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/500px-Figma-logo.svg.png?20190122211436" height="35"/>
 </p>
-
-## Social Media
-
-- [LinkedIn](https://www.linkedin.com/in/mohamed-amine-boughaba-b2047b2a8/)
