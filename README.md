@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=48&id=40670&format=png" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=mldPmcCMMrFh&format=png&color=000000" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
