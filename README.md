@@ -23,4 +23,3 @@
   <img src="https://desktop.github.com/images/desktop-icon.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/500px-Figma-logo.svg.png?20190122211436" height="35"/>
 </p>
-
