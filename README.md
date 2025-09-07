@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40"/>
-  
+  <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>  
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40"/>
