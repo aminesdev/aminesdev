@@ -14,6 +14,8 @@
   <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" height="40"/>
+  <img src="https://img.icons8.com/?size=48&id=gKfcEStXI1Hm&format=png" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>  
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40"/>
