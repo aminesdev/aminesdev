@@ -18,6 +18,7 @@
   <img src="https://logosandtypes.com/wp-content/uploads/2020/11/npm.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>  
+  <img src="https://ik.imagekit.io/vw46shhxp/passportjs_logo.png?updatedAt=1757702858291" height="40"/>  
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/640px-Neovim-mark-flat.svg.png" height="35"/>
