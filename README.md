@@ -19,6 +19,8 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png" height="40"/>
   <img src="https://img.icons8.com/?size=48&id=gKfcEStXI1Hm&format=png" height="40"/>
   <img src="https://logosandtypes.com/wp-content/uploads/2020/11/npm.svg" height="40"/>
+  
+   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/swagger.png" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>    
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40"/>
